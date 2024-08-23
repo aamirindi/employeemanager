@@ -1,5 +1,7 @@
 # Employee Manager App
 
+## Live : https://employeemanagement-aamirindi.vercel.app
+
 This Employee Manager App is a full-stack application built to manage employee records efficiently. The backend is powered by Java, utilizing Spring Boot, Hibernate, JDBC, and MySQL for data persistence. The backend is hosted on a reliable platform, ensuring seamless performance and availability.
 
 ## Features
